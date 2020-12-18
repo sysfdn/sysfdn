@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![sysfdn stats](https://github-readme-stats.vercel.app/api?username=sysfdn)](https://github.com/anuraghazra/github-readme-stats)
+[![sysfdn stats](https://github-readme-stats.vercel.app/api?username=sysfdn)](https://github.com/sysfdn)
 
 <!--
 **sysfdn/sysfdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
